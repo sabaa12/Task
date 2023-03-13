@@ -1,0 +1,10 @@
+[
+  {
+    "type": "eventlog",
+    "message": "test"
+  },
+  {
+    "type": "eventlog",
+    "message": "test 2"
+  }
+]

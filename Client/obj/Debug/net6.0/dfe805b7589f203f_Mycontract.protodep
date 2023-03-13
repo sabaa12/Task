@@ -1,0 +1,4 @@
+obj\Debug\net6.0\Proto/Mycontract.cs \
+obj\Debug\net6.0\Proto/MycontractGrpc.cs: C:/Users/saba/.nuget/packages/grpc.tools/2.52.0/build/native/include/google/protobuf/struct.proto\
+ C:/Users/saba/.nuget/packages/grpc.tools/2.52.0/build/native/include/google/protobuf/any.proto\
+ Proto/Mycontract.proto

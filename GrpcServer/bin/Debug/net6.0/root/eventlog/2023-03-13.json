@@ -1,0 +1,23 @@
+[
+  {
+    "type": "eventlog",
+    "message": "saba 2"
+  },
+  {
+    "type": "eventlog",
+    "message": "log message 1"
+  },
+  {
+    "type": "eventlog",
+    "message": 2
+  },
+  {
+    "type": "eventlog",
+    "message": [
+      "item1",
+      "item2",
+      "item3"
+    ],
+    "bla": 2
+  }
+]
